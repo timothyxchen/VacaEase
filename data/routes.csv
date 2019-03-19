@@ -1,0 +1,490 @@
+,day1,day2,day3
+route1,"[Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object, Name                             The Metropolitan Museum of Art
+address             The Metropolitan Museum of Art,new york, NY
+rating                                                        5
+popularity                                                51722
+price                                                          
+category                                                Museums
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: The Metropolitan Museum of Art, dtype: object, Name                                            Juliana's Pizza
+address                    19 Old Fulton St, Brooklyn, NY 11201
+rating                                                      4.5
+popularity                                                 1901
+price                                                        $$
+category                                                  Pizza
+url           https://www.yelp.com/biz/julianas-pizza-brookl...
+imageurl      https://s3-media1.fl.yelpcdn.com/bphoto/7JtwTx...
+phone                                              +17185966700
+Name: Juliana's Pizza, dtype: object, Name                                      One World Observatory
+address                      One World Observatory,new york, NY
+rating                                                      4.5
+popularity                                                23105
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: One World Observatory, dtype: object, Name                                         Red Rooster Harlem
+address                       310 Lenox Ave, New York, NY 10027
+rating                                                      3.5
+popularity                                                 2847
+price                                                       $$$
+category                                 American (Traditional)
+url           https://www.yelp.com/biz/red-rooster-harlem-ne...
+imageurl      https://s3-media2.fl.yelpcdn.com/bphoto/boNVRB...
+phone                                              +12127929001
+Name: Red Rooster Harlem, dtype: object, Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object]","[Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object, Name                         American Museum of Natural History
+address         American Museum of Natural History,new york, NY
+rating                                                      4.5
+popularity                                                23562
+price                                                          
+category                                                Museums
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: American Museum of Natural History, dtype: object, Name                                                       Soco
+address                      509 Myrtle Ave, Brooklyn, NY 11205
+rating                                                        4
+popularity                                                 1929
+price                                                        $$
+category                      Cajun/Creole, Barbeque, Soul Food
+url           https://www.yelp.com/biz/soco-brooklyn?adjust_...
+imageurl      https://s3-media4.fl.yelpcdn.com/bphoto/nLKKfP...
+phone                                              +17187831936
+Name: Soco, dtype: object, Name                                                   Broadway
+address                                   Broadway,new york, NY
+rating                                                      4.5
+popularity                                                27838
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Broadway, dtype: object, Name                                            Jacob's Pickles
+address                   509 Amsterdam Ave, New York, NY 10024
+rating                                                        4
+popularity                                                 3561
+price                                                        $$
+category         Comfort Food, Southern, American (Traditional)
+url           https://www.yelp.com/biz/jacobs-pickles-new-yo...
+imageurl      https://s3-media2.fl.yelpcdn.com/bphoto/167Rl2...
+phone                                              +12124705566
+Name: Jacob's Pickles, dtype: object, Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object]","[Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object, Name                                          Statue of Liberty
+address                          Statue of Liberty,new york, NY
+rating                                                      4.5
+popularity                                                39924
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Statue of Liberty, dtype: object, Name                                             The Halal Guys
+address                   W 53rd St 6th Ave, New York, NY 10019
+rating                                                        4
+popularity                                                 9115
+price                                                         $
+category                     Food Stands, Middle Eastern, Halal
+url           https://www.yelp.com/biz/the-halal-guys-new-yo...
+imageurl      https://s3-media1.fl.yelpcdn.com/bphoto/24lb-V...
+phone                                                          
+Name: The Halal Guys, dtype: object, Name                        The National 9/11 Memorial & Museum
+address        The National 9/11 Memorial & Museum,new york, NY
+rating                                                      4.5
+popularity                                                87111
+price                                                          
+category                                                Museums
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: The National 9/11 Memorial & Museum, dtype: object, Name                Carmine's Italian Restaurant - Times Square
+address                       200 W 44th St, New York, NY 10036
+rating                                                        4
+popularity                                                 3266
+price                                                        $$
+category               Italian, Caterers, Venues & Event Spaces
+url           https://www.yelp.com/biz/carmines-italian-rest...
+imageurl      https://s3-media1.fl.yelpcdn.com/bphoto/0UszeE...
+phone                                              +12122213800
+Name: Carmine's Italian Restaurant - Times Square, dtype: object, Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object]"
+route2,"[Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object, Name                                               Times Square
+address                               Times Square,new york, NY
+rating                                                      4.5
+popularity                                                50712
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Times Square, dtype: object, Name                                           Burger & Lobster
+address                        39 W 19th St, New York, NY 10011
+rating                                                        4
+popularity                                                 4847
+price                                                        $$
+category                       Seafood, Burgers, American (New)
+url           https://www.yelp.com/biz/burger-and-lobster-ne...
+imageurl      https://s3-media3.fl.yelpcdn.com/bphoto/1rHd7F...
+phone                                              +16468337532
+Name: Burger & Lobster, dtype: object, Name                                            Top of the Rock
+address                            Top of the Rock,new york, NY
+rating                                                      4.5
+popularity                                                74310
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Top of the Rock, dtype: object, Name                                                  Ippudo NY
+address                          65 4th Ave, New York, NY 10003
+rating                                                        4
+popularity                                                 9651
+price                                                        $$
+category                                                  Ramen
+url           https://www.yelp.com/biz/ippudo-ny-new-york-7?...
+imageurl      https://s3-media1.fl.yelpcdn.com/bphoto/zF3Egq...
+phone                                                          
+Name: Ippudo NY, dtype: object, Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object]","[Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object, Name                                            Brooklyn Bridge
+address                            Brooklyn Bridge,new york, NY
+rating                                                      4.5
+popularity                                                21150
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Brooklyn Bridge, dtype: object, Name                                        Trattoria Trecolori
+address                    254 West 47th St, New York, NY 10036
+rating                                                        4
+popularity                                                 2005
+price                                                        $$
+category                                                Italian
+url           https://www.yelp.com/biz/trattoria-trecolori-n...
+imageurl      https://s3-media4.fl.yelpcdn.com/bphoto/G8vBgH...
+phone                                              +12129974540
+Name: Trattoria Trecolori, dtype: object, Name                                              The High Line
+address                              The High Line,new york, NY
+rating                                                      4.5
+popularity                                                57895
+price                                                          
+category                                         Nature & Parks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: The High Line, dtype: object, Name                                            Jacob's Pickles
+address                   509 Amsterdam Ave, New York, NY 10024
+rating                                                        4
+popularity                                                 3561
+price                                                        $$
+category         Comfort Food, Southern, American (Traditional)
+url           https://www.yelp.com/biz/jacobs-pickles-new-yo...
+imageurl      https://s3-media2.fl.yelpcdn.com/bphoto/167Rl2...
+phone                                              +12124705566
+Name: Jacob's Pickles, dtype: object, Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object]","[Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object, Name                                         Rockefeller Center
+address                         Rockefeller Center,new york, NY
+rating                                                      4.5
+popularity                                                23709
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Rockefeller Center, dtype: object, Name                                                   LoveMama
+address                         174 2nd Ave, New York, NY 10003
+rating                                                        4
+popularity                                                 3960
+price                                                        $$
+category                            Thai, Malaysian, Vietnamese
+url           https://www.yelp.com/biz/lovemama-new-york?adj...
+imageurl      https://s3-media1.fl.yelpcdn.com/bphoto/bLlFKT...
+phone                                              +12122545370
+Name: LoveMama, dtype: object, Name                                                   Broadway
+address                                   Broadway,new york, NY
+rating                                                      4.5
+popularity                                                27838
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Broadway, dtype: object, Name                                         Red Rooster Harlem
+address                       310 Lenox Ave, New York, NY 10027
+rating                                                      3.5
+popularity                                                 2847
+price                                                       $$$
+category                                 American (Traditional)
+url           https://www.yelp.com/biz/red-rooster-harlem-ne...
+imageurl      https://s3-media2.fl.yelpcdn.com/bphoto/boNVRB...
+phone                                              +12127929001
+Name: Red Rooster Harlem, dtype: object, Name                                        The Belvedere Hotel
+address       319 W 48th St, New York, NY, 10036, United States
+rating                                                      8.4
+popularity                                                 6429
+price                                                       107
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-538-6252
+Name: The Belvedere Hotel, dtype: object]"
+route3,"[Name                                            Hotel St. James
+address       109 W. 45TH ST., New York, NY, 10036, United S...
+rating                                                      7.6
+popularity                                                 3523
+price                                                        87
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-925-4159
+Name: Hotel St. James, dtype: object, Name                                            Brooklyn Bridge
+address                            Brooklyn Bridge,new york, NY
+rating                                                      4.5
+popularity                                                21150
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Brooklyn Bridge, dtype: object, Name                                        Trattoria Trecolori
+address                    254 West 47th St, New York, NY 10036
+rating                                                        4
+popularity                                                 2005
+price                                                        $$
+category                                                Italian
+url           https://www.yelp.com/biz/trattoria-trecolori-n...
+imageurl      https://s3-media4.fl.yelpcdn.com/bphoto/G8vBgH...
+phone                                              +12129974540
+Name: Trattoria Trecolori, dtype: object, Name                                                Bryant Park
+address                                Bryant Park,new york, NY
+rating                                                      4.5
+popularity                                                21812
+price                                                          
+category                                         Nature & Parks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Bryant Park, dtype: object, Name                                                        Bea
+address                       403 W 43rd St, New York, NY 10036
+rating                                                        4
+popularity                                                 2162
+price                                                        $$
+category                          American (New), Cocktail Bars
+url           https://www.yelp.com/biz/bea-new-york?adjust_c...
+imageurl      https://s3-media2.fl.yelpcdn.com/bphoto/MsmtaE...
+phone                                              +12126021910
+Name: Bea, dtype: object, Name                                            Hotel St. James
+address       109 W. 45TH ST., New York, NY, 10036, United S...
+rating                                                      7.6
+popularity                                                 3523
+price                                                        87
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-925-4159
+Name: Hotel St. James, dtype: object]","[Name                                            Hotel St. James
+address       109 W. 45TH ST., New York, NY, 10036, United S...
+rating                                                      7.6
+popularity                                                 3523
+price                                                        87
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-925-4159
+Name: Hotel St. James, dtype: object, Name                                      Empire State Building
+address                      Empire State Building,new york, NY
+rating                                                      4.5
+popularity                                                79657
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Empire State Building, dtype: object, Name                                                     Amélie
+address                         22 W 8th St, New York, NY 10011
+rating                                                      4.5
+popularity                                                 2365
+price                                                        $$
+category                                      French, Wine Bars
+url           https://www.yelp.com/biz/am%C3%A9lie-new-york?...
+imageurl      https://s3-media4.fl.yelpcdn.com/bphoto/cSDgVu...
+phone                                              +12125332962
+Name: Amélie, dtype: object, Name                        The National 9/11 Memorial & Museum
+address        The National 9/11 Memorial & Museum,new york, NY
+rating                                                      4.5
+popularity                                                87111
+price                                                          
+category                                                Museums
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: The National 9/11 Memorial & Museum, dtype: object, Name                                             Los Tacos No.1
+address                          75 9th Ave, New York, NY 10011
+rating                                                      4.5
+popularity                                                 2570
+price                                                         $
+category                                                  Tacos
+url           https://www.yelp.com/biz/los-tacos-no-1-new-yo...
+imageurl      https://s3-media2.fl.yelpcdn.com/bphoto/FU44TY...
+phone                                              +12122560343
+Name: Los Tacos No.1, dtype: object, Name                                            Hotel St. James
+address       109 W. 45TH ST., New York, NY, 10036, United S...
+rating                                                      7.6
+popularity                                                 3523
+price                                                        87
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-925-4159
+Name: Hotel St. James, dtype: object]","[Name                                            Hotel St. James
+address       109 W. 45TH ST., New York, NY, 10036, United S...
+rating                                                      7.6
+popularity                                                 3523
+price                                                        87
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-925-4159
+Name: Hotel St. James, dtype: object, Name                                     Grand Central Terminal
+address                     Grand Central Terminal,new york, NY
+rating                                                      4.5
+popularity                                                40908
+price                                                          
+category                                     Sights & Landmarks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Grand Central Terminal, dtype: object, Name                                                       Alta
+address                        64 W 10th St, New York, NY 10011
+rating                                                        4
+popularity                                                 1778
+price                                                       $$$
+category                     Tapas Bars, Mediterranean, Spanish
+url           https://www.yelp.com/biz/alta-new-york?adjust_...
+imageurl      https://s3-media1.fl.yelpcdn.com/bphoto/aUWGUN...
+phone                                              +12125057777
+Name: Alta, dtype: object, Name                                               Central Park
+address                               Central Park,new york, NY
+rating                                                      4.5
+popularity                                               124079
+price                                                          
+category                                         Nature & Parks
+url           https://www.tripadvisor.com/Attraction_Review-...
+imageurl      https://media-cdn.tripadvisor.com/media/photo-...
+phone                                                          
+Name: Central Park, dtype: object, Name                                                   LoveMama
+address                         174 2nd Ave, New York, NY 10003
+rating                                                        4
+popularity                                                 3960
+price                                                        $$
+category                            Thai, Malaysian, Vietnamese
+url           https://www.yelp.com/biz/lovemama-new-york?adj...
+imageurl      https://s3-media1.fl.yelpcdn.com/bphoto/bLlFKT...
+phone                                              +12122545370
+Name: LoveMama, dtype: object, Name                                            Hotel St. James
+address       109 W. 45TH ST., New York, NY, 10036, United S...
+rating                                                      7.6
+popularity                                                 3523
+price                                                        87
+category                                                       
+url                                                            
+imageurl                                                       
+phone                                              866-925-4159
+Name: Hotel St. James, dtype: object]"
