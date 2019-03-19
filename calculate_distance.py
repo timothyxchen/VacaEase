@@ -30,7 +30,7 @@ def calculate_distance(origin, destination, len_ori, len_des):
     # origin = location_to_la_lon(origin_text)
     # destination = location_to_la_lon(destination_text)
 
-    api_key = 'AIzaSyCnDe435hF8VQXwUD4t8m8y_0CxWBlKEYU'
+    api_key = ''#Need to register for GoogleMap API to run this program
     site = 'https://maps.googleapis.com/maps/api/'
     service = 'distancematrix/json?'
     locations = 'origins=%s&destinations=%s&departure_time=now&' % (origin, destination)
