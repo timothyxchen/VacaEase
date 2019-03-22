@@ -22,9 +22,6 @@ Installation Procedure (from IDLE3)
 under the source file
 7. In the idle, click on “Run” → Run Module
 8. Program starts
-VacaEase Tutorial Video:
-https://youtu.be/HwLaACvizpU
-Enjoy planning your trip with VacaEase
 
 Example Output:
 <img width="1105" alt="Screen Shot 2019-03-18 at 11 28 41 PM" src="https://user-images.githubusercontent.com/46730869/54578342-d01e0200-49d5-11e9-929e-4f3ce5824ba7.png">
